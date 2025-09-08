@@ -80,3 +80,4 @@
 - [Ahmed Fathi](https://www.youtube.com/@noone988-Ahmed-Fathi) - This is a computer engineering related channel in Arabic where he explains various topics
 - [Amsheer WaBasheer](https://www.youtube.com/@AmsheerWaBasheer) - This is a computer engineering related channel in Arabic where he explains various topics.
 - [php anonymous](https://www.youtube.com/@PhpAnonymous/playlists) - PHP, DenoJS, Laravel Courses.
+- [Ameer Gaafar](https://www.youtube.com/@AmeerGaafar) - He offered an awesome talk on Test-Driven Development
