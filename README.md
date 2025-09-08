@@ -31,6 +31,7 @@
 - [Embedded Meetup](linkedin.com/company/embeddedmeetup) - Enabling the collaboration between technology hubs, industry experts,  and entrepreneurs will offer better opportunities for individuals and the whole ecosystem.
 - [Backend Builders](https://x.com/BackendBuilders) - A thriving community of backend developers to connect, learn, and inspire together.
 - [BLEU](discord.gg/sjU9VCT3h4) - A community for Arab programmers on Discord, hosting virtual meetups on various topics.
+- [Active Courses](https://discord.gg/M7U9qBB9yp) - A Discord server focused on self-study on various technical topics.
 
 ### Podcasts
 
