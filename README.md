@@ -30,6 +30,7 @@
 - [Cairo C++ Meetup](https://www.meetup.com/cairo-c-c-meetup-group/) - Cairo C++ Meetup Group is for professionals and beginners interested in C++/C, exchange of experience and networking.
 - [Embedded Meetup](linkedin.com/company/embeddedmeetup) - Enabling the collaboration between technology hubs, industry experts,  and entrepreneurs will offer better opportunities for individuals and the whole ecosystem.
 - [Backend Builders](https://x.com/BackendBuilders) - A thriving community of backend developers to connect, learn, and inspire together.
+- [BLEU](discord.gg/sjU9VCT3h4) - A community for Arab programmers on Discord, hosting virtual meetups on various topics.
 
 ### Podcasts
 
@@ -56,6 +57,8 @@
 - [TechVault](https://www.youtube.com/@TechVault_) - Sharing in-depth tech-related knowledge, including both technical and career-related subjects, for both Arabic- and English-speaking viewers. Presented by Amr Elhelw.
 - [Emad Elsaid](https://www.youtube.com/@EmadElsaid) - He is a software engineer, casual gamer, and science fiction fan. He provides live coding sessions in Go and career advice.
 - [بالعربي Big Data](https://www.youtube.com/@bigdata4756) - An educational channel explaining technical topics related to Big Data in Arabic.
+- [Sharno](https://www.youtube.com/@msharno) - Software developer who likes to always try new languages (especially functional), and also gives sessions about Rust, Java, and functional programming.
+- [Gitunleashed](https://www.youtube.com/@gitunleashed) - Your ultimate guide to mastering Git and becoming a version control expert. From beginner basics to advanced techniques, we demystify Git with clear tutorials and practical examples. Join us on a journey to optimize your workflow, handle complex projects, and collaborate effectively. Unleash the power of Git with GitUnleashed
 - [Arabic Competitive Programming](https://www.youtube.com/@ArabicCompetitiveProgramming) - Mostafa Saad Ibrahim is a competitive programming World Finalist (2011) and former TA at Cairo University (2009-2014). He holds a Ph.D. in Computer Vision from SFU (2018) and covers topics such as programming, OOP, data structures, and algorithms.
 - [Elzero Web School ](https://www.youtube.com/@ElzeroWebSchool) - It is a channel that offers multiple web development tracks and general programming learning through detailed interactive explanations in Arabic. It provides study plans with coding tests and challenges to ensure understanding and practical application of the code.
 - [Yallacode](https://www.youtube.com/@yallacode_) - Yallacode is an organization that provides developer support in Arabic
