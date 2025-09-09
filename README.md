@@ -36,6 +36,7 @@
 
 - [Mohamed Elsherif ](https://www.youtube.com/@bashmohandes) - Software Engineering topics and discussions, podcast and some times video tutorials.
 - [Ahmed Elemam](https://www.youtube.com/@ahmdelemam) - Arabic videos for Software Engineers.
+- [قهوة عصام](https://www.youtube.com/@essamcafe) Software topics, more focused on career and personal experiences rather than specific technical deep dives.
 - [null++](https://nullplus.plus/) - Null++ is an Arabic podcast powered by Cairo's Facebook Developers Circle Co-Leads, delivering valuable insights for MENA's software professionals to advance their careers
 - [Tech and Coffe](https://www.youtube.com/@tech.and.coffee) - oin a community of tech enthusiasts enjoying premium coffee culture while delving into IT over lattes.
 - [سكيورتي بالعربي ](https://music.youtube.com/playlist?list=PLTZJNA1ULApUyLKgMFwxO5n6LlbekKOL2) - non-profit podcast promoting cybersecurity content in Arabic. 
